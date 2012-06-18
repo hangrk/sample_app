@@ -5,6 +5,9 @@ gem 'bootstrap-sass', '2.0.0'
 gem 'therubyracer'
 gem 'rb-readline'
 gem 'bcrypt-ruby'
+gem 'faker'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
 
 group :development, :test do
 	gem 'sqlite3'
